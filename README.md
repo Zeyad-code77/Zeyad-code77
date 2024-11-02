@@ -1,0 +1,1 @@
+I'm Zeyad Sayed, a **Frontend Developer** and **Computer Science student** passionate about crafting **visually appealing**, **responsive**, and **high-performance** applications. I prioritize **clean code** and follow **best practices** to deliver user-friendly experiences that stand out.
